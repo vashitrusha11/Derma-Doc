@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Dr. Walter Black",
+        "speciality": "Acne Specialist",
+        "rates": {
+            "text": "500",
+            "phone": "500",
+            "video": "700"
+        },
+        "bio": "Dr. Black has over 20 years of experience in dermatology and acne treatments."
+    },
+    {
+        "name": "Dr. JH Atul Das Gupta",
+        "speciality": "Pediatric",
+        "rates": {
+            "text": "800",
+            "phone": "800",
+            "video": "1200"
+        },
+        "bio": "Dr. Atul specializes in pediatric dermatology, with over 10 years of experience."
+    },
+    {
+        "name": "Dr. Emily Sharma",
+        "speciality": "Cosmetic Dermatology",
+        "rates": {
+            "text": "600",
+            "phone": "650",
+            "video": "850"
+        },
+        "bio": "Dr. Stone is renowned for her expertise in cosmetic procedures and skin rejuvenation."
+    },
+    {
+        "name": "Dr. Rajesh Smith",
+        "speciality": "General Dermatology",
+        "rates": {
+            "text": "550",
+            "phone": "600",
+            "video": "750"
+        },
+        "bio": "With 15 years of experience, Dr. Smith provides comprehensive skin care solutions."
+    },
+    {
+        "name": "Dr. Linda Fitzgerald",
+        "speciality": "Skin Cancer Specialist",
+        "rates": {
+            "text": "700",
+            "phone": "750",
+            "video": "950"
+        },
+        "bio": "Dr. Fitzgerald is a leading expert in the diagnosis and treatment of skin cancers."
+    }
+]

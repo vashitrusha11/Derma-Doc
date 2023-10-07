@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Select Option</title>
+</head>
+<body>
+    <h2>Select an Option</h2>
+    <form action="/select_option" method="post">
+        <button name="option" value="dermadoc">DermaDoc</button>
+        <button name="option" value="telemedicine">Telemedicine</button>
+    </form>
+</body>
+</html>
